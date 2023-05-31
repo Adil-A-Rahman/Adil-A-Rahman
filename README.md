@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Adil Abdul Rahman, a final year student at GU 
-- 👀 I’m interested in programming, problem solving and pushing my limits as a programmer :) 
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on anything !! Hit me up !!
-<!--- - 📫 You can get in touch through my email: adilarahman1@outlook.com ---!>
+- 👋 Hey Folks, I’m Adil Abdul Rahman, a fullstack  && backend 10x dev 
+- 👀 I am interested in solving fun and challenging problems with my skills and pushing my limits :)
+- 🌱 Currently passionate about build large scale backend solutions and learning about them
+- 📫 Want to work with me ? Hit me up at adilarahman1@outlook.com :)
 
 <!---
 Adil-A-Rahman/Adil-A-Rahman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
